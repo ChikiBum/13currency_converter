@@ -1,0 +1,41 @@
+body {
+    position: relative;
+}
+.wrapper {
+    display: block;
+    height: 120px;
+}
+
+
+
+#animation {
+    position: absolute;
+    top: 0;
+    left: 0; 
+    display: block;
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+}
+
+#do-animation {
+    margin: 20px auto;
+    margin-left: auto;
+    display: block;
+    width: 60px;
+    height: 40px;
+    background-color: green ;
+}
+
+#do-calc {
+    margin: 20px auto;
+    margin-left: auto;
+    display: block;
+    width: 60px;
+    height: 40px;
+    background-color: green ;
+}
+
+.hidden{
+    display: none
+}
